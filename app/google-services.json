@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053447586127",
+    "project_id": "department-of-it-d6a2e",
+    "storage_bucket": "department-of-it-d6a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053447586127:android:1833d0e380e9f09259853a",
+        "android_client_info": {
+          "package_name": "com.example.departmentofit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFWSL1XBNIIyykagSUziVRvkeEYJnQRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
